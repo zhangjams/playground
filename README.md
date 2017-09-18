@@ -1,3 +1,3 @@
-# Important README info about this repo
+# Playground Repo
 
-Winter is coming.
+For practicing.
